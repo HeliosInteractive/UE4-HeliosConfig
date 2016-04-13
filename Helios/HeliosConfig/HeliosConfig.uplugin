@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HeliosConfig",
+	"Description": "A JSON config utility.",
+	"Category": "Helios",
+	"CreatedBy": "Helios Interactive",
+	"CreatedByURL": "http://heliosinteractive.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:barraza@heliosinteractive.com",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HeliosConfig",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
